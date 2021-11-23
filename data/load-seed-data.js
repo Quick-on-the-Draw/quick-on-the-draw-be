@@ -5,7 +5,7 @@ const seedTables = async () => {
         {
             title: 'Seed Drawing 1',
             createdDate: '1999-01-09T08:00:00.000Z',
-            timerSetting: 5,
+            timerSetting: 10,
             url: 'google.com',
         },
         {
